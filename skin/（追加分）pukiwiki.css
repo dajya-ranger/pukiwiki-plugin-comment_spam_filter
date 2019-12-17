@@ -1,0 +1,33 @@
+/* comment.inc.php, pcomment.inc.php, article.inc.php */
+.comment input[type="text"],
+.comment textarea {
+	background-color: #fff;
+	color: #333;
+	width: 95%;
+	border: 1px solid #ddd;
+	font-size: 100%;
+	margin: 0.2em 0;
+	padding: 0.5em;
+	border-radius: 4px;
+	box-shadow: 1px 1px 3px rgba(0,0,0,.1) inset;
+}
+.comment input[type="radio"] {
+	margin: 0.2em 0;
+}
+.comment input[type="submit"] {
+	text-align: center;
+	display: inline-block;
+	margin: 0.2em 0;
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-size: 1rem;
+    border: 1px solid #808080;
+    color: #808080;
+	background: #fff;
+	cursor: pointer;
+	transition: .2s;
+}
+.comment input[type="submit"]:hover {
+	color: #fff;
+	background: #808080;
+}
