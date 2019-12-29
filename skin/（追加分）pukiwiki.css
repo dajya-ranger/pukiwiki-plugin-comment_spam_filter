@@ -1,4 +1,10 @@
 /* comment.inc.php, pcomment.inc.php, article.inc.php */
+.fb-comments.fb_iframe_widget,
+.fb-comments.fb_iframe_widget iframe[style],
+.fb-comments.fb_iframe_widget span {
+	width: 100% !important;
+	overflow: auto;
+}
 .comment input[type="text"],
 .comment textarea {
 	background-color: #fff;

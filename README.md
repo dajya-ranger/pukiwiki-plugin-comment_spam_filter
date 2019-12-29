@@ -12,7 +12,7 @@ PukiWiki用スパムフィルタ対応レスポンシブコメントプラグイ
 - URL入力欄を追加しているので、入力された投稿者の名前を入力されたURLのリンクとして編集します（URL入力欄を省略した場合は従来通りブラケット名によるリンク）
 - URL入力欄によって作成するURLのリンクは別窓で開く（target="_blank"）リンクとして編集するため、自サイトの記事「[PukiWikiでリンクおよびページ添付画像・PDFを別窓（target=”_blank”）で開く！](https://dajya-ranger.com/pukiwiki/link-target-blank/)」での改造がされている前提です
 - 入力されたコメントはempty（空）入力チェックと[Akismet](https://akismet.com/development/)フィルタで不正・スパムコメントを排除します
-- commentプラグインはFacebookコメントとして利用することも可能です（必要な手順があるので、詳しくは自サイトの記事「[PukiWiki1.5.2をソーシャルメディアに接続してFacebookコメントを実装する！]」(https://dajya-ranger.com/pukiwiki/connect-social-media/)を参照して下さい）
+- commentプラグインはFacebookコメントとして利用することも可能です（必要な手順があるので、詳しくは自サイトの記事「[PukiWiki1.5.2をソーシャルメディアに接続してFacebookコメントを実装する！](https://dajya-ranger.com/pukiwiki/connect-social-media/)」を参照して下さい）
 - 動作サンプルは[PukiWiki配布テストサイト](https://pukiwiki.dajya-ranger.com)及び[太宰治真理教](https://dazai.dajya-ranger.com/)を参照して下さい
 	- commentによるFacebookコメント→[FrontPage](https://pukiwiki.dajya-ranger.com)ページ
 	- articleとpcommentを使った掲示板→[Ｑ＆Ａ掲示板](https://pukiwiki.dajya-ranger.com/?3ed3076714)ページ
