@@ -3,7 +3,7 @@
 PukiWiki用スパムフィルタ対応レスポンシブコメントプラグイン
 
 - 暫定公開版です（[PukiWiki1.5.2](https://pukiwiki.osdn.jp/?PukiWiki/Download/1.5.2)で動作確認済）
-- [PukiWiki1.5.2用スパムフィルタspam_filter.php（最新版）](https://dajya-ranger.com/sdm_downloads/spam-filter-library/)の導入が前提となります
+- [PukiWiki用スパムフィルタspam_filter.php（最新版）](https://dajya-ranger.com/sdm_downloads/spam-filter-library-pkwk153/)の導入が前提となります
 - 次のPukiWiki標準プラグインをスパムフィルタ・レスポンシブデザイン・複数行入力に対応しています
 	- comment（コメントプラグイン・[Facebookコメント](https://developers.facebook.com/docs/plugins/comments)にも対応）
 	- pcomment（コメントを別ページに記録するレス機能付きコメントプラグイン）
